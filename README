@@ -1,1 +1,4 @@
 КОММЕНТАРИЙ НА ВСЕ КНИГИ СВ. ПИСАНИЯ Ветхого и Нового Завета А.П. Лопухина
+
+Compile it with:
+osis2mod mydir lopukhin_commentary.xml -v Synodal
